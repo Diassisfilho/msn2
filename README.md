@@ -1,6 +1,6 @@
 # MSN2 - P2P Chat Application
 
-A simple peer-to-peer chat application with basic encryption built in Python. This application allows multiple users to connect and chat directly with each other.
+A simple peer-to-peer chat application with basic encryption built in Python. This application allows multiple users to connect and chat directly with each other. This was the final project for the computer networks course at college.
 
 ## Features
 
